@@ -1,0 +1,15 @@
+#googleMap{
+    margin-top:30px;
+    width:900px;
+    height:400px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 30px;
+}
+.title{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 25px;;
+
+}

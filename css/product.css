@@ -1,0 +1,35 @@
+
+.h2Title{
+    height: 46px;
+    font:normal 700 24px/46px "arial";
+    text-align: center;
+}
+
+/* to make div ul li a img centered */
+.banner ul {
+    margin: 0 auto;
+    display: table;
+}
+
+.banner ul li {
+    float: left;
+}
+
+.banner ul li a img {
+    margin: 0 auto;
+    display: block;
+}
+
+.banner ul li a div {
+    text-align: center;
+    color: #2f2f2f;
+}
+
+.banner ul li a div h1 {
+    height: 46px;
+  
+}
+.banner ul li a div p{
+    font-size: 15px;
+}
+

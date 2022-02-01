@@ -1,0 +1,95 @@
+
+/* contact.html */
+.contact .center .banner {
+    text-align: center;
+}
+.contact .center h1 {
+    line-height: 60px;
+}
+.contact .center h2 {
+    font: normal 400 30px;
+    height: 60px;
+    line-height: 60px;
+    margin-left: 25px;
+}
+.contact .center .title {
+    margin-top: 20px;
+    height: 40px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 24px;
+}
+.contact .center input {
+    width: 500px;
+    height: 60px;
+    border: 1px solid #d8d8d8;
+    margin-left: 25px;
+}
+
+.contact .center .fr input:invalid {
+    width: 500px;
+    height: 60px;
+    border: 2px dashed red;
+    margin-left: 25px;
+    
+  }
+/*
+.contact .center .fl input:valid {
+    width: 500px;
+    height: 60px;
+    border: 2px solid black;
+    margin-left: 25px;    
+}
+
+.contact .center .fl input:invalid {
+    width: 500px;
+    height: 60px;
+    border: 2px dashed red;
+    margin-left: 25px;
+    
+  }
+  */
+
+.contact .center .fr input:valid {
+    width: 500px;
+    height: 60px;
+    border: 2px solid black;
+    margin-left: 25px;    
+}
+
+.contact .center .confirmOrder{
+    margin-left: 0;
+}
+.contact .center textarea {
+    width: 500px;
+    height: 200px; 
+    margin-left: 25px;
+    border: 1px solid #d8d8d8; 
+}
+.contact .center .checkbox {
+    height: 60px;
+    font-size: 14px;
+}
+.contact .center .checkbox span {
+    line-height: 60px;
+}
+.contact .center .checkbox input {
+    width: 14px;
+    height: 14px;
+    vertical-align: middle;
+}
+.contact .center .messageBtn {
+    width: 506px;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+.contact .center img {
+    margin-top: 100px;
+}
+.contact .center .radio {
+    height: 60px;
+    font-size: 14px;
+}
+
+
+

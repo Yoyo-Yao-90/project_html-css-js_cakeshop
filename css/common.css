@@ -1,0 +1,79 @@
+/* the common used styles */
+
+/* remove the margin and padding of common used tags */
+html,body,ul,li,p,h1,h2,h3,form,img {
+    margin: 0;
+    padding: 0;
+}
+
+/* remove the border of image */
+img {
+    border: none;
+}
+
+/* remove the bullet of list */
+ul {
+    list-style: none;
+}
+
+/* remove the padding top and bottom and border of input */
+input {
+    padding-top: 0;
+    padding-bottom: 0;
+    border: none;
+}
+
+/* remove the underline of anchor */
+a {
+    text-decoration: none;
+}
+
+/* set font for body */
+/* font style, weight, size, family */
+body {
+    font: normal normal 12px arial,sans-serif;
+    color: #4c4c4c;
+    background-color: #fff;
+}
+
+/* set float */
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+/* clear float */
+.clearfix:after {
+    content: "";
+    height: 0;
+    line-height: 0;
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+/* make the page be compatible to IE6 */
+.clearfix {
+    zoom: 1;
+}
+
+/* to clear float in a div */
+.clear {
+    clear: both;
+}
+
+/* for the search box */
+.logo .l_center input {
+    width: 245px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.logo .l_center button {
+    height: 29px;
+    padding-left: 0px;
+    padding-right: 0px;
+}

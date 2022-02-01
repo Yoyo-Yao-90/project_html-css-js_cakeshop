@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14e32fe3-198c-49db-8cf6-3b98f8b993a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22HyPnedTQK2k0dFlgvZ7eyGpDa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Computer Programmer\Semester 3\Client-Side JavaScript\Presentation\project\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14e32fe3-198c-49db-8cf6-3b98f8b993a1" name="Default Changelist" comment="" />
+      <created>1639508785958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639508785958</updated>
+      <workItem from="1639508786993" duration="843000" />
+      <workItem from="1639536025619" duration="3364000" />
+      <workItem from="1639616784576" duration="871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="753" y="411" key="#Chrome_Settings" timestamp="1639508865748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="411" key="#Chrome_Settings/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639508865748" />
+    <state x="753" y="424" key="#Firefox_Settings" timestamp="1639508909459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="424" key="#Firefox_Settings/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639508909459" />
+    <state x="759" y="312" key="#Web_Browsers" timestamp="1639508953356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="312" key="#Web_Browsers/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639508953356" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639617544913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639617544913" />
+    <state x="742" y="277" key="FileChooserDialogImpl" timestamp="1639509057792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="277" key="FileChooserDialogImpl/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639509057792" />
+    <state x="264" y="329" key="SettingsEditor" timestamp="1639509059852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="264" y="329" key="SettingsEditor/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639509059852" />
+    <state x="631" y="97" width="1430" height="1028" key="dock-window-1" timestamp="1639536710571">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="631" y="97" width="1430" height="1028" key="dock-window-1/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639536710571" />
+    <state x="-1528" y="351" width="1430" height="1028" key="dock-window-2" timestamp="1639537674563">
+      <screen x="-1920" y="187" width="1920" height="1040" />
+    </state>
+    <state x="-1528" y="351" width="1430" height="1028" key="dock-window-2/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639537674563" />
+    <state x="-1157" y="415" key="run.anything.popup" timestamp="1639537692037">
+      <screen x="-1920" y="187" width="1920" height="1040" />
+    </state>
+    <state x="-1157" y="415" key="run.anything.popup/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639537692037" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1639539014064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.187.1920.1040@0.0.1920.1040" timestamp="1639539014064" />
+  </component>
+</project>
