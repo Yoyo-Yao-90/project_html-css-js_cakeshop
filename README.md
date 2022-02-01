@@ -1,0 +1,2 @@
+# project_html-css-js_cakeshop
+This project is to implement a commercial website that is able to showcase the cake products and enable customers to place orders. In this project, web development languages such as HTML, CSS, and JavaScript will be applied to design the layout, perform decoration, and realize dynamic visual or interactive effects. This project will follow the common commercial website style and focus on using JavaScript to implement relevant functions.  
